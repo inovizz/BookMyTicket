@@ -1,0 +1,40 @@
+Development type -  TDD
+
+=============================================================================
+Tech Stack :
+
+Backend - Python, Django, MySQL, Redis, MongoDB, nginx, uWSGI, celery, JWT Auth
+Test -  Pytest, Django Unit Test
+Frontend - ReactJS, JQuery, JavaScript, Bootstrap, HTML5, CSS3
+Log Backup - Logstash, ELK
+Monitoring - Sentry, Datadog
+Could - AWS (EC2, S3, RDS)
+CI and VC - Travis, Jenkins, Bitbucket
+Load testing - Jmeter
+
+=============================================================================
+Backend Tasks :
+
+Create custom User with custom Fields in Django
+Implement authentication using one way encryption of Password
+Oauth authentication for Facebook, Google+, Twitter and Linkedin
+Session Management using JWT token (set session expiry)
+Create RESTful APIs keeping REST architecture in mind
+Setup databases(multiple) MySQL and Postgres
+Use SQLAlchemy
+Write optimized queries in ORMs specially using joins
+Implement caching with REDIS(set cache expiry)
+Implement Logging in detail
+Nginx setup (load balancing and autoscaling)
+Application Monitoring using Datadog
+Write unit test cases
+Use celery for Async approach to handle multiple users
+Load testing using Jmeter
+Deployment using uWSGI on local and then on Production
+Setup Jenkins and integrate it with Bitbucket
+Launch and use EC2 instance for server
+Launch and use RDs instance for Database
+Launch and use S3 bucket for pushing logs
+Push logs to S3 and ELK(logstash)
+
+==============================================================================
