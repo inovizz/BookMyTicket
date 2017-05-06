@@ -1,2 +1,8 @@
-# webapp
-A web app build using Python &amp; Django.
+# BookMyTicket
+
+A webapp for online movie ticket booking, built using Django Framework.
+
+# Setup
+```
+sudo pip install -r requirements.txt
+```
