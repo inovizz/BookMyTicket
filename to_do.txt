@@ -33,8 +33,8 @@ Load testing using Jmeter
 Deployment using uWSGI on local and then on Production
 Setup Jenkins and integrate it with Bitbucket
 Launch and use EC2 instance for server
-Launch and use RDs instance for Database
+Launch and use RDS instance for Database
 Launch and use S3 bucket for pushing logs
 Push logs to S3 and ELK(logstash)
-
+Use swagger to add API documentation
 ==============================================================================
