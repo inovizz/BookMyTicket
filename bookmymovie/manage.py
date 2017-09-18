@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-
+#My change in code
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "bookmymovie.settings")
     try:
